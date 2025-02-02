@@ -1,5 +1,5 @@
 <?php
 
-echo "Ini sebuah halaman";
-echo "Baris ke 2";
-echo "Baris ke 3";
+echo "Ini sebuah halaman<br>";
+echo "Baris ke 2<br>";
+echo "Baris ke 3<br>";
